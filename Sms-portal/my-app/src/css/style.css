@@ -1,0 +1,67 @@
+body{
+    /* background-color: rgb(11, 25, 37) !important; */
+    background-color: rgb(246, 206, 126) !important;
+    color: rgb(40, 30, 13) !important;
+    overflow-x: hidden;
+}
+a{
+    color: rgb(12, 45, 73) !important;
+    text-decoration: none !important;
+    font-weight: 600;
+}
+.navbar{
+    background-color: white ;
+    margin-bottom: 30px;
+}
+.messagedata ul li{
+    list-style:decimal ;
+    /* margin-left: 20px; */
+    text-align:left;
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 500;
+
+
+}
+.messagedata{
+    
+    padding: 20px;
+    background-color:white;
+}
+.smsdata-head{
+    text-align: left;
+    margin-left: 28px;
+}
+.contactdata{
+    
+   padding: 20px;
+   
+   background-color: white;
+}
+.tableOfContact{
+    
+    padding-right: 30px;
+    border: 1px solid;
+    margin-top: 20px;
+    
+}
+.tableOfContact tr{
+    border: 1px solid;
+}
+.tableOfContact td{
+    border: 1px solid;
+    padding: 5px;
+
+}
+.tableOfContact th{
+    border: 1px solid;
+    padding: 5px;
+}
+.para{
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+
+ 
+ 

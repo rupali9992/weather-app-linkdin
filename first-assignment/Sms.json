@@ -1,0 +1,72 @@
+{
+  "Libraries": [
+    {
+      "id": "c3ab",
+      "libname": "birthday"
+    },
+    {
+      "id": "8d01",
+      "libname": "family"
+    },
+    {
+      "id": "67f8",
+      "libname": "members"
+    }
+  ],
+  "Groups": [
+    {
+      "id": "111f",
+      "groupname": "family"
+    },
+    {
+      "id": "5bd2",
+      "groupname": "friend"
+    },
+    {
+      "id": "d794",
+      "groupname": "natigoti"
+    },
+    {
+      "id": "03b1",
+      "groupname": "friends"
+    },
+    {
+      "id": "d312",
+      "groupname": "relative"
+    }
+  ],
+  "Messages": [
+    {
+      "id": "4056",
+      "libid": "8d01",
+      "messagetext": "bjhbkjhnkn"
+    }
+  ],
+  "Contacts": [
+    {
+      "id": "d794",
+      "name": "jfkjsd",
+      "mobile": "ndnfkjdn",
+      "Email": "dnfksdn"
+    },
+    {
+      "id": "111f",
+      "name": "rupali",
+      "mobile": "7977163020",
+      "Email": "rupaliahajan9992@gmail.com"
+    },
+    {
+      "id": "111f",
+      "name": "mina",
+      "mobile": "42123995",
+      "Email": "k@gmail.com"
+    },
+    {
+      "id": "1f5d",
+      "contactid": "111f",
+      "name": "mina",
+      "mobile": "42123995",
+      "Email": "k@gmail.com"
+    }
+  ]
+}

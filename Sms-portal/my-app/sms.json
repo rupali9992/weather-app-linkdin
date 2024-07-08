@@ -1,0 +1,130 @@
+{
+  "Libraries": [
+    {
+      "id": "8400",
+      "libName": "birthday"
+    },
+    {
+      "id": "8367",
+      "libName": "holi Festival"
+    },
+    {
+      "id": "c1c0",
+      "libName": "holi"
+    },
+    {
+      "id": "8a81",
+      "libName": "Diwali"
+    }
+  ],
+  "Groups": [
+    {
+      "id": "a8a2",
+      "GroupName": "friends"
+    },
+    {
+      "id": "2cc4",
+      "GroupName": "family"
+    },
+    {
+      "id": "bdd9",
+      "GroupName": "best friends"
+    },
+    {
+      "id": "a989",
+      "GroupName": "best friends"
+    },
+    {
+      "id": "6edb",
+      "GroupName": "besties"
+    }
+  ],
+  "Messages": [
+    {
+      "id": "5f9d",
+      "libid": "677b",
+      "message": "happy new year "
+    },
+    {
+      "id": "c7fd",
+      "libid": "5273",
+      "message": "happy 🎂 birthday"
+    },
+    {
+      "id": "38a9",
+      "libid": "8400",
+      "message": "happy 🎂 birthday "
+    },
+    {
+      "id": "b706",
+      "libid": "8367",
+      "message": "happy holi"
+    },
+    {
+      "id": "5be7",
+      "libid": "8367",
+      "message": "happy holi"
+    },
+    {
+      "id": "22fb",
+      "libid": "c1c0",
+      "message": "wish you happy holi"
+    },
+    {
+      "id": "862a",
+      "libid": "8a81",
+      "message": "happy holi"
+    }
+  ],
+  "Contacts": [
+    {
+      "id": "7c7c",
+      "Name": "rupali",
+      "Mobile": "7977163020",
+      "Email": "e@gmail.com",
+      "GroupName": "a8a2"
+    },
+    {
+      "id": "7642",
+      "GroupName": "a8a2",
+      "Name": "rupali",
+      "Mobile": "7977163020",
+      "Email": "e@gmail.com"
+    },
+    {
+      "id": "6dca",
+      "Groupid": "2cc4",
+      "Name": "harshu",
+      "Mobile": "8689818877",
+      "Email": "y@gmail.com"
+    },
+    {
+      "id": "b354",
+      "Groupid": "a8a2",
+      "Name": "anvi",
+      "Mobile": "7977163020",
+      "Email": "y@gmail.com"
+    },
+    {
+      "id": "200f",
+      "Groupid": "bdd9",
+      "Name": "rudra",
+      "Mobile": "256974612",
+      "Email": "ru@gmail.com"
+    },
+    {
+      "id": "7df7",
+      "Groupid": "a989",
+      "Name": "sonali",
+      "Mobile": "1234567890",
+      "Email": "sonali@gmail.com"
+    },
+    {
+      "id": "44aa",
+      "Groupid": "6edb",
+      "Name": "sima",
+      "Mobile": "9874563210",
+      "Email": "e@gmail.com"
+    }
+  ]
+}
